@@ -45,27 +45,7 @@ Tech stack
   play, add, and check.
 Project structure
 The project uses a component-based React structure. The names below
-describe the structure referenced by the application; your repository
-may contain additional files or slightly different folders.
-project-root/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Banner.jsx
-│   │   ├── MovieRow.jsx
-│   │   ├── Footer.jsx
-│   │   └── ...
-│   ├── data/
-│   │   └── movies.js
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── package.json
-├── package-lock.json
-└── vite.config.js
+describe the structure referenced by the application;
 Run locally
 Prerequisites
 - Node.js (which includes npm)
